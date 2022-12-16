@@ -1,0 +1,1 @@
+la base de datos tiene que tener el nombre de trabajo y la tabla de nombre mensaje, esta tabla debe llevar tres columnos que son:nombre de tipo text, correo de tipo text y mensaje de tipo text
